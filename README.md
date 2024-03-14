@@ -16,7 +16,7 @@ ccMeetings is a peer to peer conference call implementation using WebRTC, Socket
 
 # Demo
 
-You can test at https://baat-cheet-1pgl.onrender.com/.
+You can test at https://ccmeetings.onrender.com/
 
 # ScreenShots
 
