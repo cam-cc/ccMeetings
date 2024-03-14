@@ -13,7 +13,7 @@ ccMeetings is a peer to peer conference call implementation using WebRTC, Socket
 
 - Toggling of video stream
 - Toggling of audio stream (mute & unmute)
-- Text chat (under development)
+- Text chat (in progress)
 
 # Demo
 
