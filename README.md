@@ -7,6 +7,7 @@ ccMeetings is a peer to peer conference call implementation using WebRTC, Socket
 - Run `npm ci`
 - `cd src`
 - `node server.js` or `npm start`
+- to join a confrence, type any "room" name
 
 # Features
 
