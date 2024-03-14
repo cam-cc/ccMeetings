@@ -1,6 +1,6 @@
-# Baat-Cheet
+# ccMeetings
 
-It is a peer to peer conference call implementation using WebRTC, Socket.io and Node.js.
+ccMeetings is a peer to peer conference call implementation using WebRTC, Socket.io and Node.js.
 
 # Getting Started
 
@@ -20,9 +20,8 @@ You can test at https://baat-cheet-1pgl.onrender.com/.
 
 # ScreenShots
 
-![plot](./screenshots/1.png)
-![plot](./screenshots/2.png)
-![plot](./screenshots/3.png)
+![plot](./screenshots/home-screen.png)
+![plot](./screenshots/monkey-on-call.png)
 
 # Note
 
